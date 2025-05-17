@@ -1,0 +1,4 @@
+selenium==4.9.1
+pandas==2.0.1
+webdriver-manager==3.8.6
+python==3.6
